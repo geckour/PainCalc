@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode_entries">
+        <item>実サイズ表示</item>
+        <item>画面サイズにフィット</item>
+    </string-array>
+
+    <string-array name="mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

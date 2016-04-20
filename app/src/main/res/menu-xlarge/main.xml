@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.jpn.geckour.calculator.app.MainActivity" >
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_copy"
+        android:title="@string/action_copy"
+        android:orderInCategory="0"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_paste"
+        android:title="@string/action_paste"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_flip"
+        android:title="@string/action_flip"
+        android:orderInCategory="2"
+        android:showAsAction="never" />
+</menu>

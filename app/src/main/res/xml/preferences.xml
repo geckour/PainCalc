@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="bg_color"
+        android:title="@string/bg_color"
+        android:summary="@color/container_bg"
+        android:dialogTitle="@string/bg_color_dialog" />
+
+    <PreferenceScreen
+        android:key="bg_image_pick"
+        android:title="@string/bg_image_pick"
+        android:summary="" >
+    </PreferenceScreen>
+
+    <ListPreference
+        android:key="bg_image_scale_mode"
+        android:title="@string/bg_image_scale_mode"
+        android:entries="@array/mode_entries"
+        android:entryValues="@array/mode_values"
+        android:defaultValue="0" />
+
+    <PreferenceScreen
+        android:key="bg_image_clear"
+        android:title="@string/bg_image_clear"
+        android:summary="" >
+    </PreferenceScreen>
+</PreferenceScreen>

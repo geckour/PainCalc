@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PainCalc</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_paste">Paste</string>
+    <string name="action_flip">Switch view</string>
+    <string name="button1">AC</string>
+    <string name="button2">↩</string>
+    <string name="button3">↪</string>
+    <string name="button4">^</string>
+    <string name="button50">mr</string>
+    <string name="button51">mc</string>
+    <string name="button6">m+</string>
+    <string name="button7">m-</string>
+    <string name="button8">÷</string>
+    <string name="button9">7</string>
+    <string name="button10">8</string>
+    <string name="button11">9</string>
+    <string name="button12">×</string>
+    <string name="button13">4</string>
+    <string name="button14">5</string>
+    <string name="button15">6</string>
+    <string name="button16">+</string>
+    <string name="button17">1</string>
+    <string name="button18">2</string>
+    <string name="button19">3</string>
+    <string name="button20">-</string>
+    <string name="button21">00</string>
+    <string name="button22">0</string>
+    <string name="button23">.</string>
+    <string name="button24">=</string>
+    <string name="button25">%</string>
+    <string name="button26">×1.08</string>
+    <string name="button27">√</string>
+    <string name="output_value">0123456789</string>
+    <string name="copied">Copied.</string>
+    <string name="copy_failed">Copy failed.</string>
+    <string name="paste_failed">Paste failed.</string>
+    <string name="paste_unable">Can\'t paste.</string>
+    <string name="permission_sdcard">Allow to access to the area of SD card.</string>
+    <string name="syntax_error">Syntax error</string>
+    <string name="zerodiv_error">Contains zero division</string>
+    <string name="bg_color">Background color</string>
+    <string name="bg_color_dialog">Hex triplet(default: e0e0e0)</string>
+    <string name="bg_image_pick">Pick background image</string>
+    <string name="bg_image_scale_mode">Scale mode of background image</string>
+    <string name="bg_image_clear">Clear background image</string>
+
+
+</resources>

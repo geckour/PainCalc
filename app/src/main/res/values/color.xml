@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="container_bg">#e0e0e0</color>
+    <color name="textview_bg">#a0000000</color>
+    <color name="text_b">#000000</color>
+    <color name="text_w">#ffffff</color>
+    <color name="color00">#a0555555</color>
+    <color name="color01">#a03d4d65</color>
+    <color name="color02">#a0654d3d</color>
+    <color name="color10">#a0aaaaaa</color>
+    <color name="color11">#a07a99b2</color>
+    <color name="color12">#a0b2997a</color>
+    <color name="color20">#a0cccccc</color>
+    <color name="color21">#a092b8d1</color>
+    <color name="color22">#a0d1b892</color>
+    <color name="color30">#a0ffffff</color>
+    <color name="color31">#a0c8e0ff</color>
+    <color name="color32">#a0ffe0c8</color>
+</resources>

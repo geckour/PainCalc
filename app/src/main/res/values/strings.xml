@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">痛電</string>
+    <string name="action_settings">設定</string>
+    <string name="action_copy">コピー</string>
+    <string name="action_paste">貼り付け</string>
+    <string name="action_flip">表示切り替え</string>
+    <string name="button1">AC</string>
+    <string name="button2">↩</string>
+    <string name="button3">↪</string>
+    <string name="button4">^</string>
+    <string name="button50">mr</string>
+    <string name="button51">mc</string>
+    <string name="button6">m+</string>
+    <string name="button7">m-</string>
+    <string name="button8">÷</string>
+    <string name="button9">7</string>
+    <string name="button10">8</string>
+    <string name="button11">9</string>
+    <string name="button12">×</string>
+    <string name="button13">4</string>
+    <string name="button14">5</string>
+    <string name="button15">6</string>
+    <string name="button16">+</string>
+    <string name="button17">1</string>
+    <string name="button18">2</string>
+    <string name="button19">3</string>
+    <string name="button20">-</string>
+    <string name="button21">00</string>
+    <string name="button22">0</string>
+    <string name="button23">.</string>
+    <string name="button24">=</string>
+    <string name="button25">%</string>
+    <string name="button26">×1.08</string>
+    <string name="button27">√</string>
+    <string name="output_value">0123456789</string>
+    <string name="copied">コピーしました</string>
+    <string name="copy_failed">コピー不可</string>
+    <string name="paste_failed">貼り付け失敗</string>
+    <string name="paste_unable">貼り付け不可</string>
+    <string name="permission_sdcard">SDカード領域へのアクセスを許可します。</string>
+    <string name="syntax_error">構文エラー</string>
+    <string name="zerodiv_error">ゼロ除算を含みます</string>
+    <string name="bg_color">背景色</string>
+    <string name="bg_color_dialog">16進数トリプレット表記(default: e0e0e0)</string>
+    <string name="bg_image_pick">背景画像選択</string>
+    <string name="bg_image_scale_mode">背景画像表示サイズ</string>
+    <string name="bg_image_clear">背景画像クリア</string>
+
+
+</resources>
